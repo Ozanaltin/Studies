@@ -1,0 +1,6 @@
+Student Name: John 89.3 78.9 80.6
+Avarage test score 82.93333333333332
+Student Name: Eric89.9 78.7 90.2
+Avarage test score 86.26666666666667
+Student Name: Steve95.6 90.3 92.4
+Avarage test score 92.76666666666665
